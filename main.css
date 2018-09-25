@@ -1,0 +1,45 @@
+body {
+  font-family: "Futura";
+}
+
+.about {
+  float: left;
+  width: 20%;
+}
+
+.images {
+  float: right;
+  width: 75%;
+  }
+
+a {
+  text-decoration: none;
+  font-size: 14px;
+}
+
+p {
+  font-size: 12px;
+}
+
+img {
+  width: 25%;
+  position: relative;
+}
+
+
+
+.d {
+  transform:translate(275px,0px);
+}
+
+.q {
+  transform:translate(-225px,225px);
+}
+
+.p {
+    transform:translate(275px,185px);
+}
+
+.b {
+    transform:translate(-50px,225px);
+}
