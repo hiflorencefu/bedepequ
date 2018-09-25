@@ -29,17 +29,17 @@ img {
 
 
 .d {
-  transform:translate(275px,0px);
+  transform:translate(100%,0);
 }
 
 .q {
-  transform:translate(-225px,225px);
+  transform:translate(-90%, 85%);
 }
 
 .p {
-    transform:translate(275px,185px);
+    transform:translate(100%,70%);
 }
 
 .b {
-    transform:translate(-50px,225px);
+    transform:translate(-20%, 85%);
 }
